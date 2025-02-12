@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm [Shubhra Dwivedi]  
+# Hi there! 👋 I'm Shubhra Dwivedi  
 
 ![Profile Banner](https://github.com/Shubhra-D)  
 
@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **Frontend Development**  
 - 💻 Passionate about **frontend development & UI/UX design**  
 - 🎯 Currently working on **Portfolio Website & Shopping App**  
-- 📫 How to reach me: **[Your Email](mailto:shubhradwivedi21@gmail.com)**  
+- 📫 How to reach me: **[My Email](mailto:shubhradwivedi21@gmail.com)**  
 
 ---  
 
@@ -28,7 +28,7 @@
 ---  
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shubhra-dwivedi-b7b513233/)  
 
 
 ---  
