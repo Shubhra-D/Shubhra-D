@@ -1,10 +1,12 @@
 # Hi there! 👋 I'm Shubhra Dwivedi  
 
 ![Profile Banner](https://github.com/Shubhra-D)  
+### I'm a passionate Frontend Web Developer 🚀, currently working on an e-commerce website as part of my web development journey. I love building interactive and user-friendly web applications using HTML, CSS, JavaScript, React, Redux,Chakra Ui and Firebase.
 
-## 🚀 About Me  
+## 🚀 About Me
+
 - 🌱 I’m currently learning **Frontend Development**  
-- 💻 Passionate about **frontend development & UI/UX design**  
+- 💻 Passionate about **frontend development **  
 - 🎯 Currently working on **Portfolio Website & Shopping App**  
 - 📫 How to reach me: **[My Email](mailto:shubhradwivedi21@gmail.com)**  
 
